@@ -1,0 +1,4 @@
+com\linh\model\Book.class
+com\linh\booksws\BooksWS.class
+com\linh\dao\BookDAO.class
+com\linh\util\DBUtil.class
